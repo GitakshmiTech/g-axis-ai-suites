@@ -9,6 +9,12 @@ When working on this project, all agents must adhere to the following rules:
 5. **Maintain Directory Structure**: Keep and respect the existing file and folder structure.
 6. **Add Comments**: Add clear and descriptive comments to each function and piece of logic.
 7. **Write Understandable Code**: Write code that is clean, readable, and easy for everyone to understand.
+8. **Comment Formatting**: You MUST format all section headers and major comments exactly as follows, using the appropriate comment syntax for the language (e.g., `//` for JS/TS, `#` for Env/Python, `<!--` for HTML):
+   ```
+   //==================================================================================================================
+   //    YOUR TEXT HERE 
+   // ==================================================================================================================
+   ```
 
 ---
 
