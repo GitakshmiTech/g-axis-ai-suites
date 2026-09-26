@@ -11,7 +11,8 @@ When working on this project, all agents must adhere to the following rules:
 7. **Write Understandable Code**: Write code that is clean, readable, and easy for everyone to understand.
 
 ---
+
 ### How to Use These Rules
 
-You **do not** need to manually prompt the agent with these rules. 
+You **do not** need to manually prompt the agent with these rules.
 Because this file is named `GEMINI.md` and sits in the root of the project, **the AI automatically reads and enforces these rules** every time you ask it to do something in this workspace!
