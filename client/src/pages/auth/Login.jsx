@@ -23,7 +23,9 @@ export const Login = () => {
     <AuthLayout>
       <div className="flex flex-col pt-[40px] px-[48px] pb-[72px] gap-[30px]">
         
-        {/* Form Header */}
+        {/* ================================================================================================================== */}
+        {/*    Form Header */}
+        {/* ================================================================================================================== */}
         <div className="text-center">
           <h2 className="text-[32px] font-bold text-black-90">Sign in to your account</h2>
           <p className="text-sm font-medium mt-2 text-black-90/60">
@@ -63,7 +65,9 @@ export const Login = () => {
             </label>
           </div>
 
-          {/* Buttons */}
+          {/* ================================================================================================================== */}
+          {/*    Buttons */}
+          {/* ================================================================================================================== */}
           <div className="flex flex-col gap-3 mt-1">
             <Button type="submit" variant="primary">
               Sign in
